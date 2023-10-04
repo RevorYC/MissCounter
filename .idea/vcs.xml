@@ -3,6 +3,9 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/MissCounter" vcs="Git" />
+<<<<<<< HEAD
     <mapping directory="$PROJECT_DIR$/act_compare_proj_1" vcs="Git" />
+=======
+>>>>>>> d08431fb09797ce4bc25f17774f4b49a04316bf8
   </component>
 </project>
